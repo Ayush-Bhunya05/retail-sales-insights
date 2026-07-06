@@ -1,30 +1,70 @@
-# Retail Sales Insights
+# 📊 Retail Sales Insights
 
-## Overview
+An end-to-end Business Intelligence project that analyzes retail sales data using **Power BI**, **Python (Pandas)**, **SQL**, and **Microsoft Excel** to generate actionable business insights.
 
-Retail Sales Insights is a Business Intelligence project built using Power BI, Python (Pandas), SQL, and Microsoft Excel to analyze retail sales data and generate actionable business insights.
+---
 
-The project demonstrates an end-to-end analytics workflow including data cleaning, SQL-based analysis, KPI development, and interactive dashboard creation.
+## 🎯 Project Objectives
 
-## Features
-- Interactive Power BI dashboard
-- Revenue and Profit Analysis
+- Analyze retail sales performance
+- Identify revenue and profit trends
+- Monitor regional sales performance
+- Evaluate product category performance
+- Build interactive business dashboards
+- Generate SQL-based business reports
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Power BI | Dashboard & Visualization |
+| Python (Pandas, NumPy) | Data Cleaning & Analysis |
+| SQL | Business Queries & Reporting |
+| Microsoft Excel | Data Preparation |
+
+---
+
+## 📂 Project Structure
+
+```
+retail-sales-insights/
+│
+├── dashboard/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── images/
+├── notebooks/
+├── sql/
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## 📈 Features
+
+- Interactive Power BI Dashboard
+- Sales & Profit KPIs
+- Regional Sales Analysis
 - Monthly Sales Trends
-- Regional Performance
 - Product Category Analysis
-- SQL-based reporting
-- Data preprocessing using Python (Pandas)
-- KPI visualization
+- SQL Reporting
+- Data Cleaning using Pandas
 
-## Tech Stack
-- Power BI
-- Python (Pandas, NumPy)
-- SQL
-- Microsoft Excel
+---
 
-## Project Structure
-- data/
-- dashboard/
-- sql/
-- notebooks/
-- images/
+## 🚀 Project Status
+
+> 🚧 Currently under development.
+
+Additional dashboards, SQL queries, and business insights are being added.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
